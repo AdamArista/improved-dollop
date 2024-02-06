@@ -1,1 +1,1 @@
-# improved-dollop
+# Hello this is my first application created via swing of a very basic itteration of a car detailing service. The application allows you select up to three services and then you select a time and date and it print out the appointment details.
